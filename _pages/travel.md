@@ -7,34 +7,34 @@ nav: true
 nav_order: 6
 ---
 
-🔭 Observing Run &nbsp; 💬 Talk &nbsp; ▶️ Video Talk &nbsp; 📊 Poster &nbsp; 🗫 Exhibition &nbsp; ✏️ Workshop &nbsp; ⚙️ Observatory Operations Support
+🔭 Observing Run &nbsp; 💬 Talk &nbsp; ▶️ Video Talk &nbsp; 📊 Poster &nbsp; 🏷 Exhibition &nbsp; ✏️ Workshop &nbsp; ⚙️ Observatory Operations Support
 
 
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2025</h2>
-📊🗫 Adaptive Optics for Extremely Large Telescopes VIII; Viña del Mar, Chile; Oct 27-31<br>
+📊🏷 Adaptive Optics for Extremely Large Telescopes VIII; Viña del Mar, Chile; Oct 27-31<br>
 💬✏️ Andor Distributor Training Event; OIKK, Tokyo, Japan; Oct 15-17<br>
 💬✏️ Andor Distributor Training Event; OI First Light Imaging, Meyreuil, France; Sep 23-24<br>
 📊 EPSC-DPS Joint Conference; Helsinki, Finland; Sep 7-12<br>
-🗫 Space-Comm Expo; London, England; Mar 11<br>
+🏷 Space-Comm Expo; London, England; Mar 11<br>
 💬✏️ Andor Quantum Academy; University of Sussex, Falmer, England; Feb 2<br>
-📊🗫 AAS245 Conference; National Harbor, MD, USA; Jan 12-16
+📊🏷 AAS245 Conference; National Harbor, MD, USA; Jan 12-16
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2024</h2>
-🗫 Single Photon Workshop; Edinburgh, Scotland; Nov 20 <br>
+🏷 Single Photon Workshop; Edinburgh, Scotland; Nov 20 <br>
 📊 Wavefront Sensing in the VLT/ELT Era VIII; Durham, England; Sep 23-25<br>
 ESA Industry Space Days; ESTEC, Noordwijk,  The Netherlands; Sep 18-19<br>
 EPIC Technology Meeting on Photonics for New Space; Noordwijk, The Netherlands; Sep 17<br>
-🗫 SPIE Astronomical Telescopes + Instrumentation; Yokohama, Japan; Jun 18-20
+🏷 SPIE Astronomical Telescopes + Instrumentation; Yokohama, Japan; Jun 18-20
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2023</h2>
 📊 Asteroids Comets Meteors; Flagstaff, AZ, USA; Jun 18-23<br>
-📊🗫 AAS242 Conference; Albuquerque, NM, USA; Jun 4-8<br>
+📊🏷 AAS242 Conference; Albuquerque, NM, USA; Jun 4-8<br>
 ⚙️ Observatory Operations Support; Gemini South; La Serena, Chile; Mar 25-Apr16<br>
-📊🗫 AAS 241 Conference; Seattle, WA, USA; Jan 8-12
+📊🏷 AAS 241 Conference; Seattle, WA, USA; Jan 8-12
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2022</h2>
