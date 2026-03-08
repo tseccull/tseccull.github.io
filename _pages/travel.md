@@ -10,6 +10,9 @@ nav_order: 6
 🔭 Observing Run &nbsp; 💬 Talk &nbsp; ▶️ Video Talk &nbsp; 📊 Poster &nbsp; 🏷 Exhibition &nbsp; ✏️ Workshop &nbsp; ⚙️ Observatory Operations Support
 
 
+-------------------------------------------------------------------------------
+<h2 align="right" style="color:var(--global-divider-color)">2026</h2>
+💬✏️ Andor Sales Training Event; OI France, Paris, France; Feb 25-26<br>
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2025</h2>
