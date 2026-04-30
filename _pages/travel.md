@@ -12,6 +12,7 @@ nav_order: 6
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2026</h2>
+💬✏️ Andor Imaging & Spectroscopy Academy; Madrid, Spain; Apr 15-16<br>
 💬✏️ Andor Sales Training Event; OI France, Paris, France; Feb 25-26<br>
 
 -------------------------------------------------------------------------------
