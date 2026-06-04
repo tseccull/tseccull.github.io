@@ -2,7 +2,7 @@
 layout: page
 permalink: /software/
 title: software
-description: Software I've written for use in research. Check out my [GitHub](https://github.com/tseccull)!
+description: Software I've written for use in research.
 nav: true
 nav_order: 6
 ---
@@ -15,8 +15,8 @@ astronomical spectroscopic data. I continue to develop it as I observe with
 more instruments at various observatories. Many of these scripts have a modular
 design to allow new instruments to be integrated without too much trouble.
 
-Language Python<br>
+![Static Badge](https://img.shields.io/badge/Language-Python-blue)
 ![GitHub Release](https://img.shields.io/github/v/release/tseccull/spectools)
 [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/tseccull/spectools)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18908734.svg)
-First published in 2025<br>
+![Static Badge](https://img.shields.io/badge/Original_Publication-2025-blue)
