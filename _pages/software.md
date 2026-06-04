@@ -17,7 +17,6 @@ design to allow new instruments to be integrated without too much trouble.
 
 Language Python<br>
 ![GitHub Release](https://img.shields.io/github/v/release/tseccull/spectools)
-[GitHub Repo](https://github.com/tseccull/spectools)<br>
-[![GitHub Repo](https://img.shields.io/github/:badgeContent)](https://github.com/tseccull/spectools)
+[![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/tseccull/spectools)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18908734.svg)
 First published in 2025<br>
