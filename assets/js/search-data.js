@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-software",
+          title: "software",
+          description: "Software I&#39;ve written for use in research. Check out my [GitHub!](https://github.com/tseccull)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/software/";
+          },
         },{id: "nav-travel-amp-meetings",
           title: "travel &amp; meetings",
           description: "Travel for conferences, workshops, and observing runs.",
