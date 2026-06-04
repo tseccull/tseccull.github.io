@@ -16,7 +16,8 @@ more instruments at various observatories. Many of these scripts have a modular
 design to allow new instruments to be integrated without too much trouble.
 
 Language Python<br>
-Version v1.2.6<br>
+![GitHub Release](https://img.shields.io/github/v/release/tseccull/spectools)
 [GitHub Repo](https://github.com/tseccull/spectools)<br>
-[Zenodo DOI](https://doi.org/10.5281/zenodo.12786056)<br>
+[![GitHub Repo](https://img.shields.io/github/:badgeContent)](https://github.com/tseccull/spectools)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18908734.svg)
 First published in 2025<br>
