@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-software",
           title: "software",
-          description: "Software I&#39;ve written for use in research. Check out my [GitHub](https://github.com/tseccull)!",
+          description: "Software I&#39;ve written for use in research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/software/";
