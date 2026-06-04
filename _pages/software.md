@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 -------------------------------------------------------------------------------
-<h2 align="right" style="color:var(--global-divider-color)">spectools</h2>
+<h2 align="right">spectools</h2>
 
 This is a collection of scripts that I've written for reduction and analysis of
 astronomical spectroscopic data. I continue to develop it as I observe with
