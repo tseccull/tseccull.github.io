@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi there! I'm a Physicist at Oxford Instruments, where I work to support the 
 production and quality control testing of scientific cameras as part of 
-[Andor](https://andor.oxinst.com/)'s optical engineering team. Prior to this I 
+[Andor's](https://andor.oxinst.com/) optical engineering team. Prior to this I 
 spent two years supporting Andor's customers and sales team as an Applications 
 Specialist for Astronomy and Quantum Imaging. In this role I provided subject 
 matter expertise and training on the application of Andor and First Light 
