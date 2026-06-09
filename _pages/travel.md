@@ -12,7 +12,7 @@ nav_order: 6
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2026</h2>
-💬✏️ Andor Imaging & Spectroscopy Academy; Madrid, Spain; Apr 15-16<br>
+💬✏️ Andor Imaging & Spectroscopy Academy; IMDEA, UAM, Madrid, Spain; Apr 15-16<br>
 💬✏️ Andor Sales Training Event; OI France, Paris, France; Feb 25-26<br>
 
 -------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ nav_order: 6
 💬✏️ Andor Distributor Training Event; OI First Light Imaging, Meyreuil, France; Sep 23-24<br>
 📊 EPSC-DPS Joint Conference; Helsinki, Finland; Sep 7-12<br>
 🏷 Space-Comm Expo; London, England; Mar 11<br>
-💬✏️ Andor Quantum Academy; University of Sussex, Falmer, England; Feb 2<br>
+💬✏️ Andor Quantum Academy; Sussex Centre for Quantum Technologies, University of Sussex, Falmer, England; Feb 2<br>
 📊🏷 AAS245 Conference; National Harbor, MD, USA; Jan 12-16
 
 -------------------------------------------------------------------------------
