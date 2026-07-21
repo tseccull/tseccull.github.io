@@ -12,6 +12,7 @@ nav_order: 6
 
 -------------------------------------------------------------------------------
 <h2 align="right" style="color:var(--global-divider-color)">2026</h2>
+📊🏷 SPIE Astronomical Telescopes + Instrumentation; Copenhagen, Denmark; Jul 5-10<br>
 💬✏️ Andor Imaging & Spectroscopy Academy; IMDEA, UAM, Madrid, Spain; Apr 15-16<br>
 💬✏️ Andor Sales Training Event; OI France, Paris, France; Feb 25-26<br>
 
